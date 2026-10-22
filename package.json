@@ -1,0 +1,16 @@
+{
+  "name": "movie-portal",
+  "version": "1.2.0",
+  "description": "A TV-remote-friendly launcher for Movies.do with an optional direct-open setting.",
+  "packageType": "app",
+  "appName": "Movie Portal",
+  "appPath": "app/index.html",
+  "keys": [
+    "ColorF0Red",
+    "ColorF0Green",
+    "ColorF0Yellow",
+    "ColorF0Blue"
+  ],
+  "serviceFile": "service.js",
+  "evaluateScriptOnDocumentStart": false
+}
